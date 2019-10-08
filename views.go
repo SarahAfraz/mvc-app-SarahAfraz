@@ -52,6 +52,7 @@ var attendeesMarkup = `
 	<form method="get">
 		<label for="q">Search</label>
 		<input type="text" name="q" value="">
+		<input type="submit">
 	</form>
 {{end}}
 `
